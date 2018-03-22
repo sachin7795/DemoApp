@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "src",
-      "outDir": "dist",
+      "outDir": "F:/TOMCAT/webapps/DemoApp",
       "assets": [
         "assets",
         "favicon.ico"
