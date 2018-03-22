@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'deployment working fine! again and again for last time';
+  title = 'continous deployment succeeded!!';
 }
