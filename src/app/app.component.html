@@ -1,3 +1,6 @@
-<h1>
-  {{title}}
-</h1>
+<ul>
+  <li id="firstli" routerLinkActive="true" [routerLinkActiveOptions]="{exact:true}"><a routerLink="/home">Home</a></li>
+  <li><a routerLink="/about">About</a></li>
+</ul>
+
+<router-outlet></router-outlet>
